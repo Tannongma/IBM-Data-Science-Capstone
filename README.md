@@ -1,2 +1,2 @@
-# coursera
+# IBM Data Science Capstone Project on Coursera
 Capstone project done on coursera as part of the IBM Data Science Professional Certificate requirements. This ML prediction project showcases data nalysis and data engineering skills needed to build develop a end-to-end data science project for a business. The featured project is about using a real world data from the Space X API to provide analytics insights for the Marketing team of a fictitious company named Space Y.
